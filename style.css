@@ -1,0 +1,19 @@
+/* CSS Document */
+h1{color: red}
+h2{color: blue}
+h3{color: orangered}
+h4{color: paleturquoise}
+body{
+	background-color:#6FCFF0;
+	color:#555555;
+	font-family: Arial, Helvetica sans-serif;
+	font-size: 16px;
+	font-wieght: 1.16em;
+	body{margin:0;}
+	.container{
+		width:960px
+	}
+.box-1{
+	background-color:#333;
+	color:#AB9000
+}
